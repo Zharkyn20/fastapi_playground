@@ -1,0 +1,10 @@
+.idea
+.env
+__pycache__
+apis/__pycache__
+core/__pycache__
+db/__pycache__
+static/__pycache__
+tests/__pycache__
+
+
